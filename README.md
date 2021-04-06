@@ -1,13 +1,5 @@
 # repo1
 
-test synchronize bfbcvxb
-
-fbfbcvxb
-
-fbfbcvxb
-bvcb
-
-fbfbcvxb
-
-fbfbcvxb
-bvcb
+1234567890
+1234567890
+1234567890
